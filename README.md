@@ -51,9 +51,10 @@ int main() {
 
 
 ##OUTPUT
-<img width="1600" height="533" alt="WhatsApp Image 2026-11-13 at 9 00 58 AM" src="https://github.com/user-attachments/assets/a2782fca-f0d9-43d3-87cc-eb5f90036d9f" />
 
 
+
+<img width="2164" height="727" alt="image" src="https://github.com/user-attachments/assets/834a3402-f82a-41fe-bc41-341563738b86" />
 
 
 
