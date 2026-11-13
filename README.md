@@ -54,7 +54,8 @@ int main() {
 
 
 
-<img width="2164" height="727" alt="image" src="https://github.com/user-attachments/assets/834a3402-f82a-41fe-bc41-341563738b86" />
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/32ecb8cd-5875-45ba-982a-0b4704c06bf8" />
+
 
 
 
